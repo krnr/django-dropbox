@@ -13,7 +13,7 @@ def get_packages():
 
     return packages
 
-requires = ['dropbox==8.0.0']
+requires = ['dropbox>=9.5.0']
 
 setup(name='django-dropbox',
       version=version,
