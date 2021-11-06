@@ -1,2 +1,2 @@
-dropbox>=8.0.0
+dropbox>=9.5.0
 requests>=2.18.0
