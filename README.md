@@ -9,7 +9,7 @@ django-dropbox is a Django App that contains a Django Storage which uses Dropbox
 
 ## First of all
 
-    pip install django-dropbox
+    pip install -e git+https://github.com/krnr/django-dropbox/@master#egg=django-dropbox
 
 ## Add it to your Django Project
 
